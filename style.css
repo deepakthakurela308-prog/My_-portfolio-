@@ -301,3 +301,28 @@ footer {
         text-align: center;
     }
 }
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 25px 0;
+}
+
+.social-links a {
+    background: #111827;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.resume-btn {
+    display: inline-block;
+    background: #0284c7;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
